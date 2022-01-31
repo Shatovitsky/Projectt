@@ -1,0 +1,20 @@
+@import "./fonts.scss";
+
+$font: gothampro-Bold;
+$font-h3: gothampro-Light;
+
+h1{
+    font-family: $font;
+    color: #FF9000;
+    font-size: 56px;
+}
+h2{
+    font-family: $font;
+    color: #Ffff;
+    font-size: 44px;
+}
+h3{
+    font-family: $font-h3;
+    color: #ffff;
+    font-size: 33px;
+}
